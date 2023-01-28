@@ -32,6 +32,7 @@ Publish the website in the given URL.
 Figma
 
 ## OUTPUT:
+![ex 9](https://user-images.githubusercontent.com/118343296/215253633-3fec083f-628c-4208-ac95-7d9d9ef6ce2a.jpg)
 
 
 ## RESULT:
